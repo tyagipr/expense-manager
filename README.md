@@ -9,3 +9,12 @@ A smarter way to manage and track your daily expenses.
 ## Requirements
 - PHP 7.0 or higher version.
 - MySQL 10.1.16-MariaDB
+
+## Live Demo
+
+### [Expense Manager Live](http://expense-manager.dx.am/)
+
+> Demo user <br>
+Email - demo@gmail.com <br>
+Password - demo
+
