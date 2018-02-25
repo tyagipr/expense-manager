@@ -1,0 +1,51 @@
+
+/* 
+    Created on : Feb 18, 2018, 7:20:55 PM
+    Author     : Karan
+*/
+
+body {
+    font-family: 'Roboto', sans-serif;
+    /*font-size: 16px;*/
+    font-weight: 300;
+    /*color: #888;*/
+    /*line-height: 30px;*/
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+
+@media only screen and (max-width: 500px) {
+
+}
+
+footer {
+    padding-bottom: 70px;
+    color: #fff;
+}
+
+footer .footer-border {
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 30px;
+    border-top: 1px solid #fff;
+    border-top: 1px solid rgba(255, 255, 255, 0.6);
+}
+
+footer p { opacity: 0.8; }
+
+footer a {
+    color: #fff;
+}
+
+footer a:hover, footer a:focus { color: #fff; border-bottom: 1px dotted #fff; }
+
+.input-group-text{
+    width: 90px;
+}
