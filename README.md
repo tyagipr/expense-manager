@@ -41,3 +41,14 @@ Change the constant values according to your need, And  `Super Expense Manager` 
 - Support Multi-user level to Manage the system.
 - Easy to install new categories from database.
 - Easy to handle database.
+- Object oriented backend design.
+
+## Front-end
+- Bootstrap - Latest version
+- JQuery - Latest version
+- Font Awesome - Latest version
+- Some creativity :blush:
+
+<br>
+
+<h1 align="center">Thank- you</h1>
